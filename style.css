@@ -1,0 +1,32 @@
+.navbar-light .navbar-brand {
+  color: blue;
+}
+
+#home {
+  background-image: url(./Assets/desktop_bg.svg);
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#home a {
+  text-decoration: none;
+  color: blue;
+}
+
+#about section {
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#contact section {
+  background-image: url(./Assets/contact_bg.svg);
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #6070ff;
+}
